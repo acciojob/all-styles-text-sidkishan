@@ -1,9 +1,11 @@
 
-div{
+.main{
 	background-color:purple;
 	width:200px;
 	padding:10px;
 	border-left:green 5px solid;
-	color: white;
+}
+#heading{
 	font-size: 20px;
+	color: white;
 }
